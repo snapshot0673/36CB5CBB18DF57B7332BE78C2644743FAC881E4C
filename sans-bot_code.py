@@ -255,4 +255,4 @@ async def on_ready():
 
 
 
-client.run('')
+client.run('NTE4MTA4MjkzMzI4MDExMjc4.DuL91A.CnIe9IQF4KiRrtsFGMpvUlASXE8')
